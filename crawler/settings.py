@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'crawler.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'db_tiport23',
-        'USER': 'db_u4tierport',
-        'PASSWORD': 'Gk5_wp24',
-        'HOST': '89.22.122.250',   # Or an IP Address that your DB is hosted on
+        'NAME': 'xxxxxxxxxx',
+        'USER': 'xxxxxxx',
+        'PASSWORD': 'xxxxx',
+        'HOST': 'xxxxxx',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
 }
